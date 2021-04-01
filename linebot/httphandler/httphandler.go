@@ -18,7 +18,7 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/line/line-bot-sdk-go/linebot"
+	"github.com/matilda-kitchen/line-bot-sdk-go/linebot"
 )
 
 // EventsHandlerFunc type

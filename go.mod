@@ -1,4 +1,4 @@
-module github.com/line/line-bot-sdk-go
+module github.com/matilda-kitchen/line-bot-sdk-go
 
 go 1.11
 

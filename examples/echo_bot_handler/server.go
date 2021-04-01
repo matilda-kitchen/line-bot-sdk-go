@@ -19,8 +19,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/line/line-bot-sdk-go/linebot"
-	"github.com/line/line-bot-sdk-go/linebot/httphandler"
+	"github.com/matilda-kitchen/line-bot-sdk-go/linebot"
+	"github.com/matilda-kitchen/line-bot-sdk-go/linebot/httphandler"
 )
 
 func main() {
